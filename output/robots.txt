@@ -1,0 +1,4 @@
+Sitemap: http://uwe.ambloggen.de/sitemapindex.xml
+
+User-Agent: *
+Host: uwe.ambloggen.de

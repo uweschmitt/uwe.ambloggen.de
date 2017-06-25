@@ -1,0 +1,5 @@
+cache/
+**/*.pyc
+**/.*.sw?
+.doit.db
+__pycache__/

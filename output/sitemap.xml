@@ -15,7 +15,7 @@
  </url>
  <url>
   <loc>http://uwe.ambloggen.de/2014/index.html</loc>
-  <lastmod>2017-06-25T12:17:00Z</lastmod>
+  <lastmod>2017-06-25T16:26:00Z</lastmod>
  </url>
  <url>
   <loc>http://uwe.ambloggen.de/2015/index.html</loc>
@@ -26,8 +26,12 @@
   <lastmod>2017-06-25T12:17:00Z</lastmod>
  </url>
  <url>
+  <loc>http://uwe.ambloggen.de/2017/index.html</loc>
+  <lastmod>2017-06-25T16:27:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://uwe.ambloggen.de/archive.html</loc>
-  <lastmod>2017-06-25T12:17:00Z</lastmod>
+  <lastmod>2017-06-25T16:26:00Z</lastmod>
  </url>
  <url>
   <loc>http://uwe.ambloggen.de/categories/auberginen.html</loc>
@@ -55,7 +59,7 @@
  </url>
  <url>
   <loc>http://uwe.ambloggen.de/categories/fleisch.html</loc>
-  <lastmod>2017-06-25T12:17:00Z</lastmod>
+  <lastmod>2017-06-25T16:27:00Z</lastmod>
  </url>
  <url>
   <loc>http://uwe.ambloggen.de/categories/frankreich.html</loc>
@@ -71,7 +75,7 @@
  </url>
  <url>
   <loc>http://uwe.ambloggen.de/categories/grillen.html</loc>
-  <lastmod>2017-06-25T12:17:00Z</lastmod>
+  <lastmod>2017-06-25T16:27:00Z</lastmod>
  </url>
  <url>
   <loc>http://uwe.ambloggen.de/categories/hahnchen.html</loc>
@@ -79,7 +83,7 @@
  </url>
  <url>
   <loc>http://uwe.ambloggen.de/categories/index.html</loc>
-  <lastmod>2017-06-25T12:17:00Z</lastmod>
+  <lastmod>2017-06-25T16:26:00Z</lastmod>
  </url>
  <url>
   <loc>http://uwe.ambloggen.de/categories/indien.html</loc>
@@ -138,12 +142,20 @@
   <lastmod>2017-06-25T12:17:00Z</lastmod>
  </url>
  <url>
+  <loc>http://uwe.ambloggen.de/categories/saarland.html</loc>
+  <lastmod>2017-06-25T16:27:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://uwe.ambloggen.de/categories/salat.html</loc>
   <lastmod>2017-06-25T12:17:00Z</lastmod>
  </url>
  <url>
   <loc>http://uwe.ambloggen.de/categories/sauce.html</loc>
   <lastmod>2017-06-25T12:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://uwe.ambloggen.de/categories/schwein.html</loc>
+  <lastmod>2017-06-25T16:27:00Z</lastmod>
  </url>
  <url>
   <loc>http://uwe.ambloggen.de/categories/sommer.html</loc>
@@ -191,11 +203,11 @@
  </url>
  <url>
   <loc>http://uwe.ambloggen.de/index-2.html</loc>
-  <lastmod>2017-06-25T12:17:00Z</lastmod>
+  <lastmod>2017-06-25T16:26:00Z</lastmod>
  </url>
  <url>
   <loc>http://uwe.ambloggen.de/index.html</loc>
-  <lastmod>2017-06-25T12:17:00Z</lastmod>
+  <lastmod>2017-06-25T16:27:00Z</lastmod>
  </url>
  <url>
   <loc>http://uwe.ambloggen.de/listings/index.html</loc>
@@ -290,6 +302,10 @@
   <lastmod>2017-06-25T12:17:00Z</lastmod>
  </url>
  <url>
+  <loc>http://uwe.ambloggen.de/posts/schwenker-selbst-eingelegt.html</loc>
+  <lastmod>2017-06-25T16:27:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://uwe.ambloggen.de/posts/sellerie-suppe.html</loc>
   <lastmod>2017-06-25T12:17:00Z</lastmod>
  </url>
@@ -315,6 +331,6 @@
  </url>
  <url>
   <loc>http://uwe.ambloggen.de/posts/zitronenkuchen.html</loc>
-  <lastmod>2017-06-25T12:17:00Z</lastmod>
+  <lastmod>2017-06-25T16:26:00Z</lastmod>
  </url>
 </urlset>

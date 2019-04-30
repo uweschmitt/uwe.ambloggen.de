@@ -3,3 +3,4 @@ cache/
 **/.*.sw?
 .doit.db
 __pycache__/
+output/

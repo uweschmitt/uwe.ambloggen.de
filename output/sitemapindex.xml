@@ -31,7 +31,7 @@
  </sitemap>
  <sitemap>
   <loc>http://uwe.ambloggen.de/categories/fleisch.xml</loc>
-  <lastmod>2017-06-25T12:17:00Z</lastmod>
+  <lastmod>2017-06-25T16:27:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://uwe.ambloggen.de/categories/frankreich.xml</loc>
@@ -47,7 +47,7 @@
  </sitemap>
  <sitemap>
   <loc>http://uwe.ambloggen.de/categories/grillen.xml</loc>
-  <lastmod>2017-06-25T12:17:00Z</lastmod>
+  <lastmod>2017-06-25T16:27:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://uwe.ambloggen.de/categories/hahnchen.xml</loc>
@@ -110,12 +110,20 @@
   <lastmod>2017-06-25T12:17:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://uwe.ambloggen.de/categories/saarland.xml</loc>
+  <lastmod>2017-06-25T16:27:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://uwe.ambloggen.de/categories/salat.xml</loc>
   <lastmod>2017-06-25T12:17:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://uwe.ambloggen.de/categories/sauce.xml</loc>
   <lastmod>2017-06-25T12:17:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://uwe.ambloggen.de/categories/schwein.xml</loc>
+  <lastmod>2017-06-25T16:27:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://uwe.ambloggen.de/categories/sommer.xml</loc>
@@ -159,10 +167,10 @@
  </sitemap>
  <sitemap>
   <loc>http://uwe.ambloggen.de/rss.xml</loc>
-  <lastmod>2017-06-25T12:17:00Z</lastmod>
+  <lastmod>2017-06-25T16:27:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://uwe.ambloggen.de/sitemap.xml</loc>
-  <lastmod>2017-06-25T12:17:00Z</lastmod>
+  <lastmod>2017-06-25T16:27:00Z</lastmod>
  </sitemap>
 </sitemapindex>
